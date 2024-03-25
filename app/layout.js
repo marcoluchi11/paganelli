@@ -9,8 +9,8 @@ const roboto = Roboto({
 });
 
 export const metadata = {
-  title: "Paganelli Interiors",
-  description: "Paganelli Interior Design webpage",
+  title: "VPaganelli Interiors",
+  description: "VPaganelli Interior Design",
 };
 
 export default function RootLayout({ children }) {
